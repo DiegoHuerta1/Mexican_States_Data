@@ -47,7 +47,7 @@ The `Instances` folder contains subfolders with instances of each state in three
 - Each file represents a state as a graph:
   - Nodes = municipalities.
   - `"x"` attributes = production vectors.
-    '"name"' attributes = name of each node.
+  - `"name"` attributes = name of each node.
 - 33 files in total (32 states + whole country).
 
 ---
